@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <Title>RESUME</Title>
+    </head>
+<h1><Center><b>RESUME SURYAPRAKASH</b></Center></h1><br>
+    <blockquote><q>Man needs his difficulties in life because
+         they are necessary to enjoy the success -<cite>APJ.Abdul kalam</cite> </q></blockquote> 
+<b><Center>SUMMARY</Center></b><hr>
+<p>Job seeking student.Electrical and Electronics Engineering.
+    Intrested in IT field and Embedded System.If i had job, i will rise to
+my knowlege and passion.</p><hr>
+<b><Center>SKILLS</Center></b><hr>
+    <ol>
+        <li>PYTHON</li>
+        <li>HTML</li>
+    </ol></b><hr>
+<b><Center>PROJECTS</Center></b><hr>
+    <p>Project name: Plant moisture monitoring system<p>
+    <p>Project name: Auto tunning amplifier with <abbr title="Internet of Things">IoT</abbr><p><hr>
+<b><Center>EDUCATION</Center></b> <hr>
+        <table>
+            <thead style="text-align: center;">
+                <th>Degree/Course</th>
+                    <th>Institude/college</th>
+                        <th>University board</th>
+                            <th>Percentage</th>
+                            <th>Year of passing</th>
+            </thead>
+<tbody>            
+    <td>10th</td>
+     <td>V.M.Boys higher secondary school</td>
+    <td>Tamil nadu State board</td>
+            <td>89.2</td>
+            <td>2016</td>
+</tbody>
+<td>12th</td>
+<td>V.M.Boys higher secondary school</td>
+<td>Tamil nadu State board</td>
+            <td>66.2</td>
+            <td>2018</td>
+ <tfoot>
+          <td>Bachelor of Engineering</td>
+            <td>University college of engineering</td>
+            <td>Anna University</td>
+                        <td>73</td>
+                        <td>2022</td>
+        </tfoot>      
+</table><hr>
+<address>
+    Address:40,<br>Jamindhar padasalai street
+    <br>Vadagarai,<br>Periyakulam,Theni-625601
+</address><hr>
+<b><Center>DECLARATION</Center></b><hr>
+I hereby declare that all the above information is true to best of my knowledge.
+</html>
